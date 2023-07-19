@@ -1,0 +1,11 @@
+.fondo-container{
+    background: url('/src/components/img/img1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    object-fit: contain;
+}
