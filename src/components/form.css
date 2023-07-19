@@ -1,0 +1,52 @@
+.formInput {
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.formInput-nombre {
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.formInput-email{
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;    
+}
+
+.formInput-fecha{
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;    
+}
+
+
+.formInput-numero{
+    display: flex;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;    
+}
+
+.boton{
+    display: flex;
+    border-radius: 45px;
+    padding: 15px;
+    align-items: auto;
+    justify-content: auto;
+    background-color: #e2b2b2;
+}
+
